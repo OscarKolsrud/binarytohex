@@ -1,7 +1,7 @@
 //Code written by Oscar S. Kolsrud
 
 //Bare fordi
-int tonePin = 1n ;
+int tonePin = 1;
 
 //Trykkknappene
 const int knapp1 = 2;
