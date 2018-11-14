@@ -1,21 +1,21 @@
 //Code written by Oscar S. Kolsrud
 
 //Bare fordi
-int tonePin = 1;
+int tonePin = 14;
 
 //Trykkknappene
-const int knapp1 = 2;
-const int knapp2 = 3;
-const int knapp3 = 4;
-const int knapp4 = 5;
+const int knapp1 = 5;
+const int knapp2 = 4;
+const int knapp3 = 3;
+const int knapp4 = 2;
 
 //Stavene i displayet
-const int a = 12;
-const int b = 10;
-const int c = 7;
-const int d = 8;
-const int e = 9;
-const int f = 11;
+const int a = 7;
+const int b = 8;
+const int c = 9;
+const int d = 10;
+const int e = 11;
+const int f = 12;
 const int g = 13;
 const int h = 6;
 
